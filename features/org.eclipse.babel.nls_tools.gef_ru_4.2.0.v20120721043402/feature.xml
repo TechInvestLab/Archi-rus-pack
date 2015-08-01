@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feature
+	id="org.eclipse.babel.nls_tools.gef_ru"
+	label="Babel Language Pack for tools.gef in Russian (58.74%)"
+	image="eclipse_update_120.jpg"
+	provider-name="%providerName"
+	version="4.2.0.v20120721043402">
+	<copyright>
+		%copyright
+	</copyright>
+	<license url="%licenseURL">
+		%license
+	</license>
+	<description>Babel Language Pack for tools.gef in Russian</description>
+	<plugin fragment="true" id="org.eclipse.draw2d.doc.isv.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="1423" install-size="1423" />
+	<plugin fragment="true" id="org.eclipse.draw2d.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="1368" install-size="1368" />
+	<plugin fragment="true" id="org.eclipse.gef.doc.isv.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="1418" install-size="1418" />
+	<plugin fragment="true" id="org.eclipse.gef.examples.flow.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="1376" install-size="1376" />
+	<plugin fragment="true" id="org.eclipse.gef.examples.logic.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="2877" install-size="2877" />
+	<plugin fragment="true" id="org.eclipse.gef.examples.shapes.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="1375" install-size="1375" />
+	<plugin fragment="true" id="org.eclipse.gef.examples.text.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="1375" install-size="1375" />
+	<plugin fragment="true" id="org.eclipse.gef.examples.ui.pde.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="1375" install-size="1375" />
+	<plugin fragment="true" id="org.eclipse.gef.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="5423" install-size="5423" />
+	<plugin fragment="true" id="org.eclipse.zest.core.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="1370" install-size="1370" />
+	<plugin fragment="true" id="org.eclipse.zest.layouts.nl_ru" unpack="false" version="4.2.0.v20120721043402" download-size="1372" install-size="1372" />
+</feature>

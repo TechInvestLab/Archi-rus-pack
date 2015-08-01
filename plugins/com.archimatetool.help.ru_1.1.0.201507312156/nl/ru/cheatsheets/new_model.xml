@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheatsheet
+      title="Создать новую модель">
+   <intro>
+      <description>
+         Эта инструкция -- пошаговое описание как создать примитивную модель Архимейта.
+      </description>
+   </intro>
+   <item
+         skip="false"
+         title="Открыть дерево модели">
+      <description>
+         Чтобы увидеть модель в дереве модели, убедитесь, что окошко дерева модели видимо.
+      </description>
+      <action
+      		required="false"
+      		pluginId="com.archimatetool.help"
+      		class="com.archimatetool.help.cheatsheets.ShowViewCheatSheetAction" 
+            param1="com.archimatetool.editor.treeModelView"/>
+            
+   </item>
+   <item
+         title="Add a New Model">
+      <description>
+         Добавьте новую модель, кликнув на кнопку <b>&quot;Новая пустая модель&quot;</b> на панели инструментов или кликнув правой кнопкой мышки в окне дерева модели и выбрав  <b>&quot;Новая пустая модель&quot;</b>.
+      </description>
+      <action
+      		required="false"
+      		pluginId="com.archimatetool.editor"
+      		class="com.archimatetool.editor.actions.NewArchimateModelAction"/>
+   </item>
+   <item
+         title="Добавить элементы в модель">
+      <description>
+         Вы можете сейчас увидеть основную структуру папок новой модели в дереве модели. Также вы можете увидеть открытое  <b>&quot;окно диаграммы модели&quot;</b> open. В окне диаграммы модели вы можете визуально построить модель, вытаскивая из палитры на диаграмму мышкой элементы и соединительные линии.
+<br/><br/>
+Вы можете также добавлять элементы прямо в дерево модели, кликнуп правой кнопкой мышки на папке и выбрав <b>&quot;Новый&quot;</b> из меню. Когда элемент добавлен в дерево модели, его можно вытащить из дерева на диаграмму.
+      </description>
+   </item>
+</cheatsheet>
